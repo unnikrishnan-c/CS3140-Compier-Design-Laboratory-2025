@@ -15,7 +15,7 @@ In this course we will implement  (a) Lexical Analyzer, (b) Syntax and Semantic 
 
     Creation and evaluation syntax tree using Lex and YACC.
 
-    **Teaching Assistants**
+ **Teaching Assistants**
 
    - Kevin Jude Concessao
    - Nandakumar E
