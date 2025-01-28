@@ -8,12 +8,17 @@ In this course we will implement  (a) Lexical Analyzer, (b) Syntax and Semantic 
  - Continous Evaluation: 30%
  - End Term Exam: 20%
 
-**Ungraded Assignment-Calculator**
+**Assignment1-Ungraded Assignment-Calculator**
     Instructions given in Moodle.
 
-**Assignment1**
-
-    Creation and evaluation syntax tree using Lex and YACC.
+**Assignment2**
+ - Creation and evaluation syntax tree using Lex and YACC.
+ - Please look at compiler.y uploaded in Moodle.
+ - Your programming language for this assinment is:  Gdecl_sec stmt_list.
+ - The statements to be supported in stmt_list are (a) assign_stmt (b) write_stmt
+ -  Sample testcases uploaded in Moodle.
+ -  You should print the abstract syntax tree  at the end.
+ 
 
  **Teaching Assistants**
 
