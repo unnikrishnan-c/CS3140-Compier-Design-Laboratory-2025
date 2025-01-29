@@ -17,7 +17,7 @@ In this course we will implement  (a) Lexical Analyzer, (b) Syntax and Semantic 
  - Your programming language for this assinment is:  Gdecl_sec stmt_list.
  - The statements to be supported in stmt_list are (a) assign_stmt (b) write_stmt
  -  Sample testcases uploaded in Moodle.
- -  You should print the abstract syntax tree  at the end.
+ -  After printing output (as given in the Moodle course page),you should print abstract syntax tree.
  
 
  **Teaching Assistants**
