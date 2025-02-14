@@ -25,7 +25,7 @@ In this course we will implement  (a) Lexical Analyzer, (b) Syntax and Semantic 
   - (a) One Dimensional Array, (b) if-then-else, (c) for loop
   - Print symbol table and AST( Abstract Syntax Tree)
   - One Sample program given below
-  - DeadLine March 3rd,2025.
+  - Deadline March 3rd,2025.
 
 **Sample Program for Assignment 3**
 
