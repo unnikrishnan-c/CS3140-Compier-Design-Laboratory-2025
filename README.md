@@ -18,6 +18,20 @@ In this course we will implement  (a) Lexical Analyzer, (b) Syntax and Semantic 
  - The statements to be supported in stmt_list are (a) assign_stmt (b) write_stmt
  -  Sample testcases uploaded in Moodle.
  -  After printing output (as given in the Moodle course page),you should print abstract syntax tree.
+
+ **Assignment 3**
+  
+   Extend Assignment two have  support for 
+  - (a) One Dimensional Array, (b) if-then-else, (c) for loop
+  - Print symbol table and AST( Abstract Syntax Tree)
+  - One Sample program given below
+  - DeadLine March 3rd,2025.
+
+**Sample Program for Assignment 3**
+
+![Screenshot from 2024-02-27 23-10-09](https://github.com/unnikrishnan-c/CS-3140-Compiler-Design-Laboratory-Jan-2023/assets/63437154/d9662c0f-9a79-45ae-a9cd-585f476340f0)
+
+
  
 
  **Teaching Assistants**
