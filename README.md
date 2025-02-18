@@ -29,7 +29,7 @@ In this course we will implement  (a) Lexical Analyzer, (b) Syntax and Semantic 
 
 **Sample Program for Assignment 3**
 
-![Sample_Program1.png](https://github.com/unnikrishnan-c/CS3140-Compier-Design-Laboratory-2025/blob/main/Sample_Program1.png)
+![Sample_Program2.png](https://github.com/unnikrishnan-c/CS3140-Compier-Design-Laboratory-2025/blob/main/Sample_Program2.png)
 
 
  
